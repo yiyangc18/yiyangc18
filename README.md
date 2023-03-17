@@ -1,4 +1,4 @@
- Hi there is Chery.
+ Hi, I'm Chery.
 
 - 🔭 I’m currently pursuing my master's degree in DPI at Tsinghau.
 - 🌱 I’m currently learning RTOS, AIOT, WIFI-BT, and Combinatorial navigation algorithms.
